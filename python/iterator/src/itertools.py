@@ -1,4 +1,5 @@
-from itertools import permutations, combinations, combinations_with_replacement
+from itertools import permutations, combinations, combinations_with_replacement, chain
+import heapq
 
 # itertools使用
 
@@ -24,3 +25,20 @@ for c in combinations(items, 3):
 
 for c in combinations_with_replacement(items, 3):
     print(c)
+
+
+# 使用chain函数可以在不同的容器中进行迭代
+
+a = [1, 2, 3, 4]
+b = ['a', 'b', 'c']
+for ch in chain(a, b):
+    print(ch, end=' ')
+
+
+# 合并两个有序序列，并且合并完后也是有序的
+
+z = [1, 4, 6]
+m = [2, 5, 9]
+
+for ch in heapq.merge(z, m):
+    print(ch, end=' ')

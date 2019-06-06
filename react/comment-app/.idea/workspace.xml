@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ff76108-b1f3-4982-8511-9e7145d5748e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../HTML/css/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AutoFocusInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommentApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommentInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommentList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-react/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-react/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-redux-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-redux-demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-demo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-redux-demo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-demo/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-redux-demo/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-demo/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -182,16 +171,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555735909071</updated>
-      <workItem from="1555735910176" duration="7912000" />
+      <workItem from="1555735910176" duration="8357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7912000" />
+    <option name="totallyTimeSpent" value="8357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
